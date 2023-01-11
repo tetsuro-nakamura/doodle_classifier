@@ -1,0 +1,4 @@
+.env/
+*.npy
+.idea
+.DS_Store
